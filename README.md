@@ -1,3 +1,4 @@
 # Kalman-Smoothing-Matlab
 Smoothing data using Kalman filter 
-[]Result.png
+![alt text](Result.png)
+
